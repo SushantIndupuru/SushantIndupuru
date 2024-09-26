@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello There
 
 <!--
 **SushantIndupuru/SushantIndupuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### i'm always bored
+### I'm always bored
+15 year old who loves coding
