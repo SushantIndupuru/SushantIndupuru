@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### i'm always bored
-
-<h1>asdf</h1>
