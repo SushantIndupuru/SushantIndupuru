@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### I'm always bored
-15 year old who loves coding
+16 year old who loves coding
